@@ -1,0 +1,7 @@
+*.py[cod]
+.web
+*.db
+assets/external/
+__pycache__/
+.ropeproject
+.venv
