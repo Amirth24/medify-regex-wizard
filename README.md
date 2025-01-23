@@ -43,7 +43,7 @@
 
 ### Screenshots
 
-![Regex Gen](./imag/regex-gen.png)
+![Regex Gen](./img/regex-gen.png)
 
 
-![Regex Result](./imag/regex-result.png)
+![Regex Result](./img/regex-result.png)
