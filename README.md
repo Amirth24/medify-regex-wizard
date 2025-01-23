@@ -40,3 +40,10 @@
     docker run -p 8000:8000 -e GEMINI_API_KEY=<API_KEY> regex-wizard
     ```
     - Replace `<API_KEY>` with the API key obtained from the ai studio website.
+
+### Screenshots
+
+![Regex Gen](./imag/regex-gen.png)
+
+
+![Regex Result](./imag/regex-result.png)
